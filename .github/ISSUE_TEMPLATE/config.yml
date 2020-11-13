@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a Bot Issue
+    url: https://github.com/nucleus-bot/bot/issues
+    about: For anything related to integrations with chat and commands
+  - name: Report a Translation Issue
+    url: https://github.com/nucleus-bot/translations/issues
+    about: Use for anything related to the spelling or grammar of website content or chat messages
